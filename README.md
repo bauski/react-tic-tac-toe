@@ -1,2 +1,2 @@
 # react-tic-tac-toe
-Familiarizing Myself with React Concepts with Tic Tac Toe
+Familiarizing myself with react concepts with Tic Tac Toe
